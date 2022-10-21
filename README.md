@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @74nu5
 - 👀 I’m interested in dotnet
 - 🌱 I’m currently learning dotnet 7 / Blazor
-- 📫 How to reach me @_T4nu5_
+- 📫 How to reach me @\_T4nu5\_
 
 <!---
 74nu5/74nu5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
