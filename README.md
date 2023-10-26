@@ -1,6 +1,7 @@
 - 👋 Contraya !, I’m @74nu5
 - 👀 I’m interested in dotnet
-- 🌱 I’m currently learning dotnet 7 / Blazor
+- 🌱 I’m currently learning dotnet 8 / Blazor
+- 👔 I'm currently in Black Blue Bees Studio
 - 📫 How to reach me @\_T4nu5\_
 
 __The life is a gift__
